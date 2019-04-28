@@ -1,0 +1,20 @@
+{
+  "name": "wecodepixels/wordpress-plugin",
+  "description": "Framework for WordPress plugins.",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "http://wecodepixels.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WeCodePixels",
+      "email": "contact@wecodepixels.com",
+      "homepage": "http://wecodepixels.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  }
+}

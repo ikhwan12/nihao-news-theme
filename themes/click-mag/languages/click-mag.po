@@ -1,0 +1,1111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Click Mag 3.0.0\n"
+"POT-Creation-Date: 2018-07-18 15:40-0400\n"
+"PO-Revision-Date: 2018-07-18 15:40-0400\n"
+"Last-Translator: \n"
+"Language-Team: mvpthemes@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_n;__;esc_html_e;esc_html__;"
+"_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+msgid "Error"
+msgstr ""
+
+#: 404.php:4
+msgid "The page you requested does not exist or has moved."
+msgstr ""
+
+#: admin/theme-settings.php:58
+msgid "General"
+msgstr ""
+
+#: admin/theme-settings.php:62
+msgid "Logo Location"
+msgstr ""
+
+#: admin/theme-settings.php:63
+msgid "Set the location of your logo."
+msgstr ""
+
+#: admin/theme-settings.php:70
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-settings.php:71
+msgid ""
+"If you are using the Large logo layout, select a file to appear as your logo "
+"that will appear above the navigation and will replace the default \"Click "
+"Mag\" logo. There are no maximum recommended dimensions for this logo size."
+msgstr ""
+
+#: admin/theme-settings.php:76
+msgid "Logo in Navigation"
+msgstr ""
+
+#: admin/theme-settings.php:77
+msgid ""
+"Select a file that will appear in your navigation. The recommended maximum "
+"dimensions for this logo are 250x60."
+msgstr ""
+
+#: admin/theme-settings.php:82
+msgid "Logo in Navigation Width"
+msgstr ""
+
+#: admin/theme-settings.php:88
+msgid "Logo in Navigation Height"
+msgstr ""
+
+#: admin/theme-settings.php:94
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:95
+msgid ""
+"Upload a 16x16px PNG/GIF image that will represent your website's favicon."
+msgstr ""
+
+#: admin/theme-settings.php:100
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-settings.php:106
+msgid "Toggle Responsiveness"
+msgstr ""
+
+#: admin/theme-settings.php:112
+msgid "Toggle Infinite Scroll"
+msgstr ""
+
+#: admin/theme-settings.php:118
+msgid "Enable RTL"
+msgstr ""
+
+#: admin/theme-settings.php:126
+msgid "Colors"
+msgstr ""
+
+#: admin/theme-settings.php:129
+msgid "Primary Theme Color"
+msgstr ""
+
+#: admin/theme-settings.php:130
+msgid "Primary color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:135
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: admin/theme-settings.php:136
+msgid "The background color of the top navigation."
+msgstr ""
+
+#: admin/theme-settings.php:141
+msgid "Top Navigation Text Color"
+msgstr ""
+
+#: admin/theme-settings.php:142
+msgid "The text color of the top navigation."
+msgstr ""
+
+#: admin/theme-settings.php:147
+msgid "Top Navigation Text Hover Color"
+msgstr ""
+
+#: admin/theme-settings.php:148
+msgid "The text color when you mouse over the top navigation."
+msgstr ""
+
+#: admin/theme-settings.php:153
+msgid "Main Headlines Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:154
+msgid "The text color of the headline links."
+msgstr ""
+
+#: admin/theme-settings.php:159
+msgid "Primary Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:160
+msgid "Primary link color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:165
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/theme-settings.php:166
+msgid "Link hover color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:172
+msgid "Fonts"
+msgstr ""
+
+#: admin/theme-settings.php:175
+msgid "General Content Font"
+msgstr ""
+
+#: admin/theme-settings.php:176
+msgid "Enter the font name for the general font for the content on all pages."
+msgstr ""
+
+#: admin/theme-settings.php:181
+msgid "Fly-Out Menu/Top Navigation Font"
+msgstr ""
+
+#: admin/theme-settings.php:187
+msgid "Featured Posts/Article Headline Font"
+msgstr ""
+
+#: admin/theme-settings.php:193
+msgid "General Headline Font"
+msgstr ""
+
+#: admin/theme-settings.php:199
+msgid "General Heading Font"
+msgstr ""
+
+#: admin/theme-settings.php:207
+msgid "Homepage Settings"
+msgstr ""
+
+#: admin/theme-settings.php:210 admin/theme-settings.php:371
+#: admin/theme-settings.php:459
+msgid "Attention"
+msgstr ""
+
+#: admin/theme-settings.php:216
+msgid "Show Featured Posts?"
+msgstr ""
+
+#: admin/theme-settings.php:223 admin/theme-settings.php:384
+msgid "Featured Posts Layout"
+msgstr ""
+
+#: admin/theme-settings.php:224
+msgid "Select the layout of your Featured Posts section on the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:231
+msgid "Featured Posts Tag Slug"
+msgstr ""
+
+#: admin/theme-settings.php:232
+msgid ""
+"Enter the Tag Slug of the Tag you want associated with the Featured Posts "
+"section. Posts with this Tag will be displayed in the Featured Slider at the "
+"top of the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:238
+msgid "Homepage Blog Layout"
+msgstr ""
+
+#: admin/theme-settings.php:239
+msgid "Select the layout for the blog section of the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:246
+msgid "Number of posts per page"
+msgstr ""
+
+#: admin/theme-settings.php:254
+msgid "Popular Posts Settings"
+msgstr ""
+
+#: admin/theme-settings.php:257
+msgid "Number of Popular Posts"
+msgstr ""
+
+#: admin/theme-settings.php:263
+msgid "Popular Posts Days"
+msgstr ""
+
+#: admin/theme-settings.php:271
+msgid "Article Settings"
+msgstr ""
+
+#: admin/theme-settings.php:275
+msgid "Default Post Template"
+msgstr ""
+
+#: admin/theme-settings.php:276
+msgid "Select the default Post Template layout for your articles."
+msgstr ""
+
+#: admin/theme-settings.php:283
+msgid "Show Featured Image In Posts?"
+msgstr ""
+
+#: admin/theme-settings.php:284
+msgid ""
+"Uncheck this box if you would like to remove the featured image thumbnail "
+"from all posts."
+msgstr ""
+
+#: admin/theme-settings.php:289
+msgid "Show Social Sharing Buttons?"
+msgstr ""
+
+#: admin/theme-settings.php:295
+msgid "Show Author Info?"
+msgstr ""
+
+#: admin/theme-settings.php:301
+msgid "Show Author Email?"
+msgstr ""
+
+#: admin/theme-settings.php:307
+msgid "Show Related Posts?"
+msgstr ""
+
+#: admin/theme-settings.php:313
+msgid "Show More Posts?"
+msgstr ""
+
+#: admin/theme-settings.php:319
+msgid "Number of More Posts"
+msgstr ""
+
+#: admin/theme-settings.php:325
+msgid "Show Previous/Next Post Links?"
+msgstr ""
+
+#: admin/theme-settings.php:331
+msgid "Use Continue Reading Button On Mobile?"
+msgstr ""
+
+#: admin/theme-settings.php:337
+msgid "Disqus Forum Shortname"
+msgstr ""
+
+#: admin/theme-settings.php:343
+msgid "Article Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:351
+msgid "Google AMP Settings"
+msgstr ""
+
+#: admin/theme-settings.php:354
+msgid "Enable Google AMP on mobile devices"
+msgstr ""
+
+#: admin/theme-settings.php:360
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/theme-settings.php:368
+msgid "Category Pages"
+msgstr ""
+
+#: admin/theme-settings.php:377
+msgid "Show Featured Posts"
+msgstr ""
+
+#: admin/theme-settings.php:385
+msgid "Select the layout of your Featured Posts section on the category pages."
+msgstr ""
+
+#: admin/theme-settings.php:393
+msgid "Archive Blog Layout"
+msgstr ""
+
+#: admin/theme-settings.php:394
+msgid ""
+"Select the layout for the blog section of your category and archive pages."
+msgstr ""
+
+#: admin/theme-settings.php:403
+msgid "Social Media"
+msgstr ""
+
+#: admin/theme-settings.php:406
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:412
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:418
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-settings.php:424
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-settings.php:430
+msgid "Google Plus"
+msgstr ""
+
+#: admin/theme-settings.php:436
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-settings.php:442
+msgid "Linkedin"
+msgstr ""
+
+#: admin/theme-settings.php:448
+msgid "Tumblr"
+msgstr ""
+
+#: admin/theme-settings.php:456
+msgid "Ad Management"
+msgstr ""
+
+#: admin/theme-settings.php:465
+msgid "Header Leaderboard Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:471
+msgid "Footer Leaderboard Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:477
+msgid "Wallpaper Ad Image URL"
+msgstr ""
+
+#: admin/theme-settings.php:483
+msgid "Wallpaper Ad Click-Through URL"
+msgstr ""
+
+#: admin/theme-settings.php:491
+msgid "Footer Info"
+msgstr ""
+
+#: admin/theme-settings.php:494
+msgid "Copyright Text"
+msgstr ""
+
+#: amp-single.php:103 archive.php:32 archive.php:80 archive.php:99
+#: author.php:69 author.php:117 author.php:136 category.php:34 category.php:62
+#: category.php:94 category.php:128 category.php:169 category.php:204
+#: category.php:253 category.php:271 category.php:310 category.php:328
+#: index.php:31 index.php:79 index.php:98 page-home.php:37 page-home.php:66
+#: page-home.php:98 page-home.php:132 page-home.php:191 page-home.php:227
+#: page-home.php:274 page-home.php:310 page-home.php:351 page-home.php:387
+#: page-home.php:428 page-home.php:464 page-home.php:508 page-home.php:527
+#: page-home.php:567 page-home.php:586 page-home.php:637 page-home.php:656
+#: page-home.php:696 page-home.php:715 page-home.php:761 page-home.php:780
+#: page-home.php:820 page-home.php:839 page-home.php:886 page-home.php:905
+#: page-home.php:945 page-home.php:964 page-latest.php:37 page-latest.php:85
+#: page-latest.php:104 search.php:32 search.php:80 search.php:99 single.php:151
+#: single.php:364 widgets/widget-catlist.php:75 widgets/widget-taglist.php:72
+msgid "By"
+msgstr ""
+
+#: amp-single.php:106 single.php:154
+msgid "Published on"
+msgstr ""
+
+#: amp-single.php:169 single.php:258
+msgid "Related Topics:"
+msgstr ""
+
+#: amp-single.php:187 page-fullwidth.php:81 page.php:80 single.php:316
+msgid "Comments"
+msgstr ""
+
+#: amp-single.php:193 page-fullwidth.php:87 page.php:86 single.php:322
+msgid "Click to comment"
+msgstr ""
+
+#: amp-single.php:193 comments.php:18 page-fullwidth.php:53
+#: page-fullwidth.php:87 page.php:52 page.php:86 single.php:198 single.php:322
+msgid "1 Comment"
+msgstr ""
+
+#: amp-single.php:193 page-fullwidth.php:53 page-fullwidth.php:87 page.php:52
+#: page.php:86 single.php:198 single.php:322
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:6
+msgid "All posts tagged"
+msgstr ""
+
+#: archive.php:47 archive.php:116 author.php:84 author.php:153 category.php:220
+#: category.php:346 index.php:46 index.php:115 page-home.php:243
+#: page-home.php:604 page-latest.php:52 page-latest.php:121 search.php:47
+#: search.php:116
+msgid "More Posts"
+msgstr ""
+
+#: attachment.php:23 header.php:139 page-fullwidth.php:18 page.php:17
+#: single.php:163
+msgid "Share on Facebook"
+msgstr ""
+
+#: attachment.php:25 header.php:141 page-fullwidth.php:20 page.php:19
+#: single.php:165
+msgid "Share"
+msgstr ""
+
+#: attachment.php:28 header.php:144 page-fullwidth.php:23 page.php:22
+#: single.php:168
+msgid "Tweet This Post"
+msgstr ""
+
+#: attachment.php:30 header.php:146 page-fullwidth.php:25 page.php:24
+#: single.php:170
+msgid "Tweet"
+msgstr ""
+
+#: attachment.php:38 header.php:154 page-fullwidth.php:33 page.php:32
+#: single.php:178
+msgid "Pin This Post"
+msgstr ""
+
+#: attachment.php:43 header.php:159 page-fullwidth.php:38 page.php:37
+#: single.php:183
+msgid ""
+"I found this article interesting and thought of sharing it with you. Check "
+"it out:"
+msgstr ""
+
+#: author-list.php:31
+msgid "Latest from"
+msgstr ""
+
+#: author.php:43
+msgid "Stories By"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24 comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:25 comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "You must be logged in to post a comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Login"
+msgstr ""
+
+#: comments.php:61 comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#: fly-menu.php:27
+msgid "Connect with us"
+msgstr ""
+
+#: footer.php:64
+msgid "To Top"
+msgstr ""
+
+#: functions.php:42
+msgid "on"
+msgstr ""
+
+#: functions.php:1282
+msgid "Homepage Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:1291
+msgid "Default Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:1300
+msgid "Post/Page Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:1309
+msgid "WooCommerce Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:1336
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:1337
+msgid "Fly-Out Menu"
+msgstr ""
+
+#: functions.php:1338
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:1463
+msgid "Video/Audio Embed"
+msgstr ""
+
+#: functions.php:1472
+msgid "Featured Headline"
+msgstr ""
+
+#: functions.php:1481
+msgid "Featured Image Caption"
+msgstr ""
+
+#: functions.php:1490
+msgid "Post Template"
+msgstr ""
+
+#: functions.php:1499
+msgid "Post Width"
+msgstr ""
+
+#: functions.php:1508
+msgid "Featured Image Location"
+msgstr ""
+
+#: functions.php:1517
+msgid "Featured Image Show/Hide"
+msgstr ""
+
+#: functions.php:1526
+msgid "Post Gallery Show/Hide"
+msgstr ""
+
+#: functions.php:1542
+msgid ""
+"Add a custom featured headline that will be displayed in the featured slider."
+msgstr ""
+
+#: functions.php:1557
+msgid "Enter your video or audio embed code."
+msgstr ""
+
+#: functions.php:1572
+msgid "Add a caption and/or photo credit information for the featured image."
+msgstr ""
+
+#: functions.php:1587
+msgid "Select a template for your post."
+msgstr ""
+
+#: functions.php:1613
+msgid "Select the width of your posts between Default and Full-Width."
+msgstr ""
+
+#: functions.php:1630
+msgid "Select the location of your Featured Image between Large and Small."
+msgstr ""
+
+#: functions.php:1647
+msgid ""
+"Select to show or hide the featured image from automatically displaying in "
+"this post."
+msgstr ""
+
+#: functions.php:1664
+msgid "Select to show or hide the built-in gallery feature for this post."
+msgstr ""
+
+#: functions.php:1988
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: functions.php:1991
+msgid "at"
+msgstr ""
+
+#: functions.php:1992 functions.php:2013
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1997
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:2013
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:2162
+msgid "Page"
+msgstr ""
+
+#: functions.php:2162
+msgid "of"
+msgstr ""
+
+#: functions.php:2163
+msgid "First"
+msgstr ""
+
+#: functions.php:2164
+msgid "Previous"
+msgstr ""
+
+#: functions.php:2174
+msgid "Next"
+msgstr ""
+
+#: functions.php:2175
+msgid "Last"
+msgstr ""
+
+#: page-fullwidth.php:47 page-fullwidth.php:53 page.php:46 page.php:52
+#: single.php:192 single.php:198
+msgid "Comment"
+msgstr ""
+
+#: page-home.php:148
+msgid "Latest"
+msgstr ""
+
+#: page-home.php:151
+msgid "Trending"
+msgstr ""
+
+#: page-home.php:155
+msgid "Videos"
+msgstr ""
+
+#: page-home.php:160
+msgid "Galleries"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:393
+#: plugins/class-tgm-plugin-activation.php:912
+#: plugins/class-tgm-plugin-activation.php:2618
+#: plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:394
+#: plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:395
+#: plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1019
+#: plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:6
+msgid "Search results for"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: single.php:236
+msgid "Continue Reading"
+msgstr ""
+
+#: single.php:242 widgets/widget-ad.php:42
+msgid "Advertisement"
+msgstr ""
+
+#: single.php:249
+msgid "You may also like..."
+msgstr ""
+
+#: single.php:336
+msgid "More in"
+msgstr ""
+
+#: widgets/widget-ad.php:19
+msgid "A widget that displays an ad of any size."
+msgstr ""
+
+#: widgets/widget-ad.php:25
+msgid "Click Mag: Ad Widget"
+msgstr ""
+
+#: widgets/widget-authors.php:19
+msgid ""
+"A widget that displays a list of contributors and their most recently "
+"published post."
+msgstr ""
+
+#: widgets/widget-authors.php:25
+msgid "Click Mag: Contributors Widget"
+msgstr ""
+
+#: widgets/widget-catlist.php:19
+msgid "A widget that displays a list of posts from a category of your choice."
+msgstr ""
+
+#: widgets/widget-catlist.php:25
+msgid "Click Mag: Category List Widget"
+msgstr ""
+
+#: widgets/widget-facebook.php:19
+msgid "A widget that displays a Facebook Like Box."
+msgstr ""
+
+#: widgets/widget-facebook.php:25
+msgid "Click Mag: Facebook Widget"
+msgstr ""
+
+#: widgets/widget-pop.php:19
+msgid ""
+"A widget that displays a list of popular posts within a time period of your "
+"choice."
+msgstr ""
+
+#: widgets/widget-pop.php:25
+msgid "Click Mag: Popular Posts Widget"
+msgstr ""
+
+#: widgets/widget-taglist.php:19
+msgid "A widget that displays a list of posts from a tag of your choice."
+msgstr ""
+
+#: widgets/widget-taglist.php:25
+msgid "Click Mag: Tag List Widget"
+msgstr ""
+
+#: widgets/widget-tags.php:19
+msgid "A custom Tag Cloud widget."
+msgstr ""
+
+#: widgets/widget-tags.php:25
+msgid "Click Mag: Tag Cloud Widget"
+msgstr ""

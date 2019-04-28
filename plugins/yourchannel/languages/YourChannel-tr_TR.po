@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YourChannel 0.6\n"
+"POT-Creation-Date: 2015-05-27 13:09+0545\n"
+"PO-Revision-Date: 2015-06-02 13:51+0545\n"
+"Last-Translator: Nub Bt. <support@plugin.builders>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: YourChannel.php:310
+msgid "Sort by"
+msgstr "Sıralama"
+
+#: YourChannel.php:311
+msgid "Relevant"
+msgstr "ilgi düzeyi"
+
+#: YourChannel.php:312
+msgid "Latest"
+msgstr "en yeni"
+
+#: YourChannel.php:313
+msgid "Liked"
+msgstr "en beğenilen"
+
+#: YourChannel.php:314
+msgid "Title"
+msgstr "başlık"
+
+#: YourChannel.php:315
+msgid "Views"
+msgstr "izlenme"
+
+#: YourChannel.php:316
+msgid "Duration"
+msgstr "süre"
+
+#: YourChannel.php:317
+msgid "Any"
+msgstr "hepsi"
+
+#: YourChannel.php:318
+msgid "Short"
+msgstr "kısa"
+
+#: YourChannel.php:319
+msgid "Medium"
+msgstr "orta"
+
+#: YourChannel.php:320
+msgid "Long"
+msgstr "uzun"
+
+#: YourChannel.php:321
+msgid "Uploaded"
+msgstr "Yükleme Tarihi"
+
+#: YourChannel.php:322
+msgid "All time"
+msgstr "Hepsi"
+
+#: YourChannel.php:323
+msgid "Today"
+msgstr "Bugün"
+
+#: YourChannel.php:324
+msgid "ago"
+msgstr "önce"
+
+#: YourChannel.php:325
+msgid "Last"
+msgstr "Son"
+
+#: YourChannel.php:326
+msgid "day"
+msgstr "gün"
+
+#: YourChannel.php:327
+msgid "days"
+msgstr "gün"
+
+#: YourChannel.php:328
+msgid "week"
+msgstr "hafta"
+
+#: YourChannel.php:329
+msgid "weeks"
+msgstr "hafta"
+
+#: YourChannel.php:330
+msgid "month"
+msgstr "ay"
+
+#: YourChannel.php:331
+msgid "months"
+msgstr "ay"
+
+#: YourChannel.php:332
+msgid "year"
+msgstr "yıl"
+
+#: YourChannel.php:333
+msgid "years"
+msgstr "yıl"
+
+#: YourChannel.php:334
+msgid "Older"
+msgstr "daha eski"
+
+#: YourChannel.php:338 templates/pro_templates.php:17
+#: templates/pro_templates.php:34 templates/templates.php:60
+msgid "Videos"
+msgstr "Videolar"
+
+#: YourChannel.php:339 templates/templates.php:64
+msgid "Playlists"
+msgstr "Kategoriler"
+
+#: YourChannel.php:340 templates/pro_templates.php:41
+#: templates/pro_templates.php:158 templates/pro_templates.php:161
+msgid "Search"
+msgstr "Arama"
+
+#: YourChannel.php:341
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: YourChannel.php:342
+msgid "more"
+msgstr "Daha fazla"
+
+#: YourChannel.php:343
+msgid "Nothing found"
+msgstr "sonuç bulunamadı"
+
+#: YourChannel.php:401
+msgid "New Title"
+msgstr ""
+
+#: YourChannel.php:408
+msgid "Title:"
+msgstr ""
+
+#: YourChannel.php:414
+msgid "Name:"
+msgstr ""
+
+#: YourChannel.php:421
+msgid "Tag (optional):"
+msgstr ""
+
+#: YourChannel.php:431
+msgid "Playlist (optional):"
+msgstr ""
+
+#: templates/pro_templates.php:4
+msgid "Default Sorting"
+msgstr ""
+
+#: templates/pro_templates.php:17
+msgid "per load"
+msgstr ""
+
+#: templates/pro_templates.php:24
+msgid "Autoplay"
+msgstr ""
+
+#: templates/pro_templates.php:28
+msgid "Check this if you want that only one video to autoplay"
+msgstr ""
+
+#: templates/pro_templates.php:34
+msgid "Max"
+msgstr ""
+
+#: templates/pro_templates.php:36
+msgid "Leave empty for no limit"
+msgstr ""
+
+#: templates/pro_templates.php:44
+msgid "Restrict to"
+msgstr ""
+
+#: templates/pro_templates.php:44 templates/templates.php:7
+#: templates/templates.php:47
+msgid "Channel"
+msgstr ""
+
+#: templates/pro_templates.php:50
+msgid "Colors"
+msgstr ""
+
+#: templates/pro_templates.php:52 templates/templates.php:76
+msgid "Toggle"
+msgstr ""
+
+#: templates/pro_templates.php:55 templates/pro_templates.php:85
+#: templates/pro_templates.php:100
+msgid "Color"
+msgstr ""
+
+#: templates/pro_templates.php:59
+msgid "Text"
+msgstr ""
+
+#: templates/pro_templates.php:64
+msgid "Link"
+msgstr ""
+
+#: templates/pro_templates.php:71
+msgid "Video"
+msgstr ""
+
+#: templates/pro_templates.php:71
+msgid "Playlist"
+msgstr ""
+
+#: templates/pro_templates.php:75 templates/pro_templates.php:90
+#: templates/pro_templates.php:105
+msgid "Background"
+msgstr ""
+
+#: templates/pro_templates.php:81
+msgid "Buttons"
+msgstr ""
+
+#: templates/pro_templates.php:96
+msgid "Input"
+msgstr ""
+
+#: templates/pro_templates.php:111 templates/pro_templates.php:164
+#: templates/pro_templates.php:196
+msgid "Ratings"
+msgstr ""
+
+#: templates/pro_templates.php:115
+msgid "Like"
+msgstr ""
+
+#: templates/pro_templates.php:120
+msgid "Dislike"
+msgstr ""
+
+#: templates/pro_templates.php:125
+msgid "None Rated"
+msgstr ""
+
+#: templates/pro_templates.php:135
+msgid "Social media"
+msgstr ""
+
+#: templates/pro_templates.php:143
+msgid "Add"
+msgstr ""
+
+#: templates/pro_templates.php:145
+msgid "Leave empty to remove"
+msgstr ""
+
+#: templates/pro_templates.php:155
+msgid "Menu"
+msgstr ""
+
+#: templates/pro_templates.php:161
+msgid "on"
+msgstr ""
+
+#: templates/pro_templates.php:161
+msgid "Top"
+msgstr ""
+
+#: templates/pro_templates.php:170
+msgid "Load first video"
+msgstr ""
+
+#: templates/pro_templates.php:174
+msgid "Autoplay next video"
+msgstr ""
+
+#: templates/pro_templates.php:196 templates/templates.php:74
+msgid "Style"
+msgstr ""
+
+#: templates/pro_templates.php:199
+msgid "Pie"
+msgstr ""
+
+#: templates/pro_templates.php:203
+msgid "Bar"
+msgstr ""
+
+#: templates/pro_templates.php:209
+msgid "Subscribe button"
+msgstr ""
+
+#: templates/pro_templates.php:212 templates/templates.php:82
+msgid "Small"
+msgstr ""
+
+#: templates/pro_templates.php:216
+msgid "With name"
+msgstr ""
+
+#: templates/pro_templates.php:220
+msgid "Show count"
+msgstr ""
+
+#: templates/pro_templates.php:224
+msgid "Hide count"
+msgstr ""
+
+#: templates/pro_templates.php:230
+msgid "Custom"
+msgstr ""
+
+#: templates/pro_templates.php:233
+msgid "Pre-defined"
+msgstr ""
+
+#: templates/pro_templates.php:241
+msgid "Add New"
+msgstr ""
+
+#: templates/pro_templates.php:242
+msgid "Delete All"
+msgstr ""
+
+#: templates/templates.php:6 templates/templates.php:44
+msgid "Username"
+msgstr ""
+
+#: templates/templates.php:8
+msgid "Shortcode"
+msgstr ""
+
+#: templates/templates.php:18 templates/templates.php:19
+msgid "New version"
+msgstr ""
+
+#: templates/templates.php:24
+msgid "Suggest Feature"
+msgstr ""
+
+#: templates/templates.php:25
+msgid "Report Issue"
+msgstr ""
+
+#: templates/templates.php:26
+msgid "Write a review"
+msgstr ""
+
+#: templates/templates.php:27
+msgid "Docs & Troubleshooting"
+msgstr ""
+
+#: templates/templates.php:34
+msgid "API Key"
+msgstr ""
+
+#: templates/templates.php:41
+msgid "YouTube"
+msgstr ""
+
+#: templates/templates.php:44
+msgid "OR"
+msgstr ""
+
+#: templates/templates.php:47
+msgid "ID"
+msgstr ""
+
+#: templates/templates.php:50
+msgid "Check"
+msgstr ""
+
+#: templates/templates.php:57 templates/templates.php:95
+msgid "Show"
+msgstr ""
+
+#: templates/templates.php:68
+msgid "Banner"
+msgstr ""
+
+#: templates/templates.php:79
+msgid "Thumb size"
+msgstr ""
+
+#: templates/templates.php:86
+msgid "Large"
+msgstr ""
+
+#: templates/templates.php:92
+msgid "Play icon"
+msgstr ""
+
+#: templates/templates.php:99 templates/templates.php:124
+msgid "Show on Hover"
+msgstr ""
+
+#: templates/templates.php:109
+msgid "Video Meta"
+msgstr ""
+
+#: templates/templates.php:112
+msgid "None"
+msgstr ""
+
+#: templates/templates.php:116
+msgid "Bottom"
+msgstr ""
+
+#: templates/templates.php:120
+msgid "Right"
+msgstr ""
+
+#: templates/templates.php:130
+msgid "Player"
+msgstr ""
+
+#: templates/templates.php:133
+msgid "Inline"
+msgstr ""
+
+#: templates/templates.php:137
+msgid "Lightbox"
+msgstr ""
+
+#: templates/templates.php:143
+msgid "Titles"
+msgstr ""
+
+#: templates/templates.php:146
+msgid "Single line"
+msgstr ""
+
+#: templates/templates.php:152
+msgid "Direction"
+msgstr ""
+
+#: templates/templates.php:161
+msgid "Thumb Margin"
+msgstr ""
+
+#: templates/templates.php:171
+msgid "Only once"
+msgstr ""
+
+#: templates/templates.php:173
+msgid "Check this ONLY IF you've 50 or less videos and some are missing"
+msgstr ""
+
+#: templates/templates.php:179 templates/templates.php:208
+#: templates/templates.php:229
+msgid "Save"
+msgstr ""
+
+#: templates/templates.php:181
+msgid "Cancel"
+msgstr ""
+
+#: templates/templates.php:182
+msgid "Delete"
+msgstr ""
+
+#: templates/templates.php:186
+msgid "Some style changes may not take effect in preview."
+msgstr ""
+
+#: templates/templates.php:195
+msgid "Edit"
+msgstr ""
+
+#: templates/templates.php:201
+msgid "Quick Translation"
+msgstr ""
+
+#: templates/templates.php:225
+msgid "doesn't exist"
+msgstr ""
+
+#: templates/templates.php:226
+msgid "Saving"
+msgstr ""
+
+#: templates/templates.php:227
+msgid "Please enter your API key"
+msgstr ""
+
+#: templates/templates.php:228
+msgid "Your inputs are invalid, please have a look at them"
+msgstr ""
+
+#: templates/templates.php:230
+msgid "Deleting"
+msgstr ""

@@ -1,0 +1,7 @@
+{
+  "name": "theia-post-slider",
+  "dependencies": {
+    "iframe-resizer": "^3.5.14",
+    "slim-select": "^1.15.1"
+  }
+}

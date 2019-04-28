@@ -1,0 +1,224 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-16 22:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: theme-switcha.php:119
+msgid "Settings"
+msgstr ""
+
+#: theme-switcha.php:132
+msgid "Plugin Homepage"
+msgstr ""
+
+#: theme-switcha.php:133
+msgid "Homepage"
+msgstr ""
+
+#: theme-switcha.php:138
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr ""
+
+#: theme-switcha.php:139
+msgid "Rate this plugin"
+msgstr ""
+
+#: theme-switcha.php:144
+msgid "Get Theme Switcha Pro!"
+msgstr ""
+
+#: theme-switcha.php:145
+msgid "Go&nbsp;Pro"
+msgstr ""
+
+#: theme-switcha.php:160
+msgid "Warning:"
+msgstr ""
+
+#: theme-switcha.php:161
+msgid "Pro version of "
+msgstr ""
+
+#: theme-switcha.php:162
+msgid ""
+" currently active. Free and Pro versions cannot be activated at the same "
+"time. "
+msgstr ""
+
+#: theme-switcha.php:163 theme-switcha.php:184
+msgid "Please return to the"
+msgstr ""
+
+#: theme-switcha.php:164 theme-switcha.php:185
+msgid "WP Admin Area"
+msgstr ""
+
+#: theme-switcha.php:165
+msgid "and try again."
+msgstr ""
+
+#: theme-switcha.php:182
+msgid "requires WordPress "
+msgstr ""
+
+#: theme-switcha.php:183
+msgid " or higher, and has been deactivated! "
+msgstr ""
+
+#: theme-switcha.php:186
+msgid "to upgrade WordPress and try again."
+msgstr ""
+
+#: theme-switcha.php:199 theme-switcha.php:203
+msgid "Cheatin&rsquo; huh?"
+msgstr ""
+
+#: inc/settings-register.php:22
+msgid "Enable theme switching"
+msgstr ""
+
+#: inc/settings-register.php:23
+msgid "Apply switched theme to Admin Area"
+msgstr ""
+
+#: inc/settings-register.php:24
+msgid "Enable Theme Switch menu in Toolbar"
+msgstr ""
+
+#: inc/settings-register.php:25
+msgid "Allow these users to switch themes"
+msgstr ""
+
+#: inc/settings-register.php:26
+msgid "Cookie Expiration (in seconds)"
+msgstr ""
+
+#: inc/settings-register.php:27
+msgid "Passkey for theme-switch links (alphanumeric only)"
+msgstr ""
+
+#: inc/settings-register.php:28 inc/settings-register.php:193
+msgid "Restore default plugin options"
+msgstr ""
+
+#: inc/settings-register.php:29 inc/settings-register.php:203
+msgid "Show support with a 5-star rating &raquo;"
+msgstr ""
+
+#: inc/settings-register.php:59
+msgid "Thanks for using Theme Switcha :)"
+msgstr ""
+
+#: inc/settings-register.php:61
+msgid "Need help?"
+msgstr ""
+
+#: inc/settings-register.php:63
+msgid "Visit the plugins docs"
+msgstr ""
+
+#: inc/settings-register.php:65 inc/settings-register.php:67
+msgid "WordPress Themes In Depth"
+msgstr ""
+
+#: inc/settings-register.php:73
+msgid "Click any thumbnail to switch themes."
+msgstr ""
+
+#: inc/settings-register.php:84
+msgid "Only Admin"
+msgstr ""
+
+#: inc/settings-register.php:88
+msgid "Only with Passkey"
+msgstr ""
+
+#: inc/settings-register.php:92
+msgid "Everyone"
+msgstr ""
+
+#: inc/settings-register.php:202
+msgid ""
+"Help keep Theme Switcha going strong! A huge THANK YOU for your support!"
+msgstr ""
+
+#: inc/plugin-core.php:19 inc/plugin-core.php:576
+msgid "Choose a theme.."
+msgstr ""
+
+#. Name of the plugin
+#: inc/plugin-core.php:23 inc/plugin-core.php:588
+msgid "Theme Switcha"
+msgstr ""
+
+#: inc/plugin-core.php:283 inc/plugin-core.php:349 inc/plugin-core.php:443
+msgid "Version "
+msgstr ""
+
+#: inc/plugin-core.php:287 inc/plugin-core.php:353 inc/plugin-core.php:447 
+#: inc/plugin-core.php:548
+msgid "Untitled"
+msgstr ""
+
+#: inc/plugin-core.php:293
+msgid "Admin Theme"
+msgstr ""
+
+#: inc/plugin-core.php:295 inc/plugin-core.php:359
+msgid "Child Theme"
+msgstr ""
+
+#: inc/plugin-core.php:333 inc/plugin-core.php:427 inc/plugin-core.php:520
+msgid "Theme switching currently disabled."
+msgstr ""
+
+#: inc/settings-reset.php:15
+msgid "Default options restored."
+msgstr ""
+
+#: inc/settings-reset.php:19
+msgid "No changes made to options."
+msgstr ""
+
+#: inc/resources-enqueue.php:34
+msgid "Confirm Reset"
+msgstr ""
+
+#: inc/resources-enqueue.php:35
+msgid "Restore default options?"
+msgstr ""
+
+#: inc/resources-enqueue.php:36
+msgid "Yes, make it so."
+msgstr ""
+
+#: inc/resources-enqueue.php:37
+msgid "No, abort mission."
+msgstr ""
+
+#. Description of the plugin
+msgid "Theme switching done right."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://perishablepress.com/theme-switcha/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr ""

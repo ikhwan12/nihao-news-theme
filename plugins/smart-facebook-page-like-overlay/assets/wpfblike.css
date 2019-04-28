@@ -1,0 +1,119 @@
+/* Dialog
+---------------------------------------- */
+.fb-blue-box .d-header {background: #3a5897;}
+.fb-blue-box .d-title {background: url(fb-dialog-bg.png) no-repeat 0 100%; text-align:left; color:#fff; font-size:18px !important; line-height:1.3em !important; padding-bottom: 20px;}
+.fb-blue-box .d-title .d2-facebook-lnk { padding: 12px 0px 10px 22px; display:inline-block;}
+.fb-blue-box .d-social-widjets {padding-bottom:0px; height:90px; margin-top:15px; padding-left:25px;overflow: visible;}
+
+
+.d-close {position: absolute; width: 22px; height: 22px; padding: 10px; background: url(i.png) no-repeat 10px -422px; right: 18px; top: 21px; cursor: pointer;}
+.d-auth-block {display: none;}
+.d-title {font-size: 26px; line-height: 1; font-weight: normal; text-align: center; padding: 0 0 30px;}
+.d-social-widjets {overflow: hidden; padding: 0 0 38px;}
+
+.fb-auth {float:right;border:1px solid #bebebe; width: 300px; height:218px; padding:2px 1px 1px 1px;}
+
+
+
+/* Dialog
+---------------------------------------- */
+
+.dialog-social {
+    position: fixed;
+    display: none;
+    background: #fff;
+    z-index: 10000010;
+    width: 445px;
+    -moz-transform: translate(-220px, -290px);
+    -o-transform: translate(-220px, -290px);
+    -ms-transform: translate(-220px, -290px);
+    -webkit-transform: translate(-220px, -290px);
+    transform: translate(-220px, -290px);
+
+
+    font: 12px/1.2 Helvetica, Arial, sans-serif;
+}
+
+.dialog-social-center {
+    left: 50%;
+    top: 50%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.dialog-social-bg {
+    position: fixed;
+    display: none;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .3);
+    z-index: 450;
+}
+
+.dialog-social-title {
+    font-size: 18px;
+    line-height: 1.3em;
+}
+
+.dialog-social-lnk {
+    padding: 12px 0 10px 22px;
+    display: inline-block;
+}
+
+.dialog-social-widgets {
+    padding-bottom: 0;
+    height: 90px;
+    overflow: visible;
+    margin-top: 15px;
+}
+
+.dialog-social-auth {
+    padding: 12px 12px 20px 12px;
+    text-align: center;
+}
+
+.dialog-social-auth-link {
+    border-bottom: 1px dashed #000;
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+}
+
+/*~~~~~~~ FB ~~~~~~~*/
+.dialog-social-fb .dialog-social-header {
+    background: #3a5897;
+}
+
+.dialog-social-fb .dialog-social-widgets {
+    padding-left: 25px;
+}
+
+.dialog-social-fb .dialog-social-auth {
+    background: #dededd;
+}
+
+.dialog-social-fb .dialog-social-title {
+    background: url(fb-dialog-bg.png) no-repeat 0 100%;
+    text-align: left;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.dialog-social-fb .d-close {
+    top: 7px;
+    background: url(i.png) no-repeat -22px 0;
+    padding: 0;
+    width: 42px;
+    height: 42px;
+    right: 8px;
+    z-index: 1;
+}
+
+
+
+
+.dialog-social-message-block-text {
+    border-top: solid 1px #9daccb;
+    padding: 22px 66px 22px 22px;
+}

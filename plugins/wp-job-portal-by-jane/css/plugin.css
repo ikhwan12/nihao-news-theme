@@ -1,0 +1,130 @@
+img.logo {	height:25px;vertical-align:middle;padding-right:3px; }
+.jh-plugin-table, .jh-plugin-table tr, .jh-plugin-table td { border:none!important; }
+
+#jh-plugin-setup-table
+{
+	width:70%;
+}
+
+#jh-plugin-setup-table thead tr th.future
+{
+	background-color: #b3a2c7;
+	color: white;
+	width:33%;
+	text-align:left;
+	padding: 5px;
+}
+
+#jh-plugin-setup-table  thead tr th.selected
+{
+	background-color: #8064a2;
+	color: white;
+	width:33%;
+	text-align:left;
+	padding: 5px;	
+}
+
+#jh-plugin-setup-table ul
+{
+    list-style-type: disc;
+	margin-left:20px;
+}	
+
+#jh-plugin-setup-table td
+{
+	padding-top:10px;
+}
+
+
+.form-table td, .form-table th
+{
+	padding-top:0px!important;
+	padding:2px;
+	margin:0px;
+}
+
+
+div.move-form-left
+{
+	margin-left:-205px!important;
+}
+
+
+div#setting-error-settings_updated
+{
+	display:none;
+}
+
+div.jh-plugin-notice
+{
+	margin-left:2px!important;
+	padding-bottom:10px;
+}
+
+
+
+.tab-content
+{
+	background-color:white;
+	padding:10px;
+	width:95%;
+	border: 1px solid #AAA;
+}
+
+ul.tabs
+{
+	margin-bottom: 0px;	
+	position:relative;
+	top:1px;
+}
+
+.tabs li {
+	list-style:none;
+	display:inline;
+	margin-right: 3px;
+	outline: none;
+}
+
+.tabs a {
+    padding: 10px 25px;
+	display:inline-block;
+	background:#ddd;
+	color:#000;
+	text-decoration:none;
+	border: 1px solid #AAA;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;		
+}
+
+.tabs a.active {
+	background:#fff;
+	color:#000;
+	border-bottom:1px solid #FFF;
+	font-weight: bold;
+}
+
+.tabs a:focus {
+	box-shadow:none;
+}
+		
+.wp-editor-label
+{
+	float:left;
+	margin: 0px;
+	margin-top: 10px;
+	font-size: 1.15em;
+}
+
+input[type="text"].jhwpjp-shortcode
+{
+	border-width: 0px;
+    border: none;
+    width: 455px;
+    background-color: lightgray;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+	color:black;
+}

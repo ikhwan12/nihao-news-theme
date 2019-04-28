@@ -1,0 +1,65 @@
+.jh-plugin-table, .jh-plugin-table tr, .jh-plugin-table td { border:none!important; }
+
+.jobTitle
+{
+	text-align:center;
+}
+
+.jobDesc
+{
+	display:none;
+} 
+
+.jobDesc button, .jobDescSolo button
+{
+	margin-bottom:5px;
+} 
+
+.jobDesc ul, .jobDescSolo ul
+{
+	margin-left:15px!important;
+} 
+
+div.jobDesc p, div.jobDescSolo p
+{
+	display:block;
+	word-wrap:break-word;
+}
+
+.applyButton
+{
+	
+}
+
+#jhwpjp_jobs
+{
+	
+}
+
+div.privateJob
+{
+	width:95%;
+	height:200px;
+	background-color:#DDD;
+	text-align:center;
+}
+
+div.privateJob p
+{
+	padding-top: 90px;
+	font-weight:bold;
+}
+
+input[type="text"].jhwpjp-shortcode
+{
+	border-width: 0px;
+    border: none;
+    width: 455px;
+    background-color: lightgray;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+	color:black;
+}
