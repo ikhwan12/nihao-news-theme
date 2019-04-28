@@ -1,5 +1,5 @@
 # nihao-news-theme
-Nihao News Theme is modification theme from mag-click theme and adjusted with some requirements from Nihao Indonesia News and Media coorporation.
+Nihao News Theme is modification theme from mag-click theme and adjusted with some requirements from Nihao Indonesia News and Media coorporation. This project is already run on https://www.nihaoindo.com 
 
 # Features
 
